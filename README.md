@@ -28,7 +28,8 @@ market_manipulation_detector/
 ├── BTC-2018min.txt          
 ├── BTC_Tweets_Updated.csv   
 ├── BTC_Tweets_Updated.txt   
-├── data_preprocessing.ipynb 
+├── data_preprocessing.ipynb
+├── detection.ipynb
 ├── requirements.txt      
 ├── preprocessed_data.csv    
 ├── manipulation_detection_results.csv 
