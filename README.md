@@ -64,13 +64,20 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 ## Usage
 
-1. Open the Jupyter notebook:
+1. Open the Jupyter notebook data_preprocessing.ipynb:
 ```bash
 jupyter notebook data_preprocessing.ipynb
 ```
 
 2. Run all cells sequentially to:
    - Load and preprocess the data
+
+3. Open the Jupyter notebook detection.ipynb:
+```bash
+jupyter notebook detection.ipynb
+```
+
+4. Run all cells sequentially to:
    - Perform feature engineering
    - Detect manipulation signals
    - Generate visualizations
