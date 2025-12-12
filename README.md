@@ -6,6 +6,10 @@ A data analysis project that detects potential market manipulation in Bitcoin tr
 
 This project combines Bitcoin price data with Twitter sentiment analysis to identify anomalous patterns that may indicate market manipulation. It uses statistical methods and machine learning techniques to flag suspicious trading periods where unusual social media activity coincides with price volatility.
 
+## Presentation
+
+https://mediaspace.illinois.edu/media/t/1_51em3uqa
+
 ## Features
 
 - **Data Integration**: Merges Bitcoin price data with Twitter sentiment scores at minute-level granularity
